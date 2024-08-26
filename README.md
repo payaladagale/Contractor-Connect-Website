@@ -51,7 +51,7 @@ These instructions will help you set up a development environment for Contractor
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/ankita-kanawade/Contractor-Connect-Website.git
+   git clone https:https://github.com/payaladagale/Contractor-Connect-Website
    ```
 
 2. Open the project in your preferred IDE.
